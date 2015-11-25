@@ -1,4 +1,5 @@
 # AssetsManager
-Singletons  ALAssetsLibrary 
+Singleton ALAssetsLibrary
+Singleton to provide one instance of ALAssetsLibrary in app.
 
-Singletons to provide one instance of ALAssetsLibrary in app.
+Find on stackoverflow.
